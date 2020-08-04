@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-03_2359",
+    "name": "qhatu.shop",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -44,7 +44,15 @@
       }
     ],
     "uniqCompNum": 50,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "PWA": {
+      "enabled": true
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/logo-qhatu-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "pwa-switcher": "on"
   },
   "pages": {
     "index.html": {

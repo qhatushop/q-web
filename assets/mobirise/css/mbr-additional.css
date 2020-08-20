@@ -1147,6 +1147,112 @@ section.lazy-placeholder:after {
     padding: 0rem;
   }
 }
+.cid-s6QMxtAmZ1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s6QMxtAmZ1 .card-box {
+  padding: 0 2rem;
+}
+.cid-s6QMxtAmZ1 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s6QMxtAmZ1 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s6QMxtAmZ1 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s6QMxtAmZ1 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s6QMxtAmZ1 .mbr-text {
+  color: #767676;
+}
+.cid-s6QMxtAmZ1 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s6QMxtAmZ1 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s6QMtayddc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #04367c, #6441a5);
+}
+.cid-s6QMtayddc .plan-body .btn-bgr {
+  z-index: 0;
+}
+.cid-s6QMtayddc .list-group-item {
+  padding: .5rem 3.25rem;
+}
+.cid-s6QMtayddc .price-term {
+  display: block;
+  line-height: 1;
+  margin-top: 0.45rem;
+}
+.cid-s6QMtayddc .plan-title {
+  background-color: #4284df;
+}
+.cid-s6QMtayddc .plan-header {
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+}
+.cid-s6QMtayddc .plan-body {
+  border-radius: 0 0 8px 8px;
+}
+.cid-s6QMtayddc .plan {
+  position: relative;
+  max-width: 330px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-s6QMtayddc .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+}
+.cid-s6QMtayddc .plan .list-group-item:last-child {
+  border-radius: 8px;
+}
+.cid-s6QMtayddc .plan:nth-child(2) .plan-title {
+  background-color: #eb4e6f;
+}
+.cid-s6QMtayddc .plan-header,
+.cid-s6QMtayddc .plan-body {
+  background-color: #ffffff;
+  border-bottom: solid 2px rgba(0, 0, 0, 0.07);
+}
+.cid-s6QMtayddc .price-figure {
+  font-weight: 600;
+  color: #232323;
+}
+.cid-s6QMtayddc .price-value {
+  font-weight: 700;
+  vertical-align: top;
+  line-height: 1;
+  margin-right: 0.25rem;
+}
+@media (max-width: 550px) {
+  .cid-s6QMtayddc .price-figure {
+    font-size: 4.25rem;
+  }
+}
 .cid-s6FHlJMRxJ {
   padding-top: 90px;
   padding-bottom: 90px;
